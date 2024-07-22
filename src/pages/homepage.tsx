@@ -1,7 +1,9 @@
 import Link from 'next/link'
 import React from 'react';
  
-export default function HomePage(a: any) {
+export default
+              
+function HomePage() {
   return (
     <div>
       <h1>Home</h1>
